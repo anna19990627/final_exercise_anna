@@ -1,0 +1,22 @@
+---
+title: "Gentoo Study"
+format: html
+editor: visual
+---
+
+## Introduction
+
+In this study we look into the body mass trend of Gentoo over the years. We lay specific empathizes on the difference between the sexes due to a higher vulnerability of the males.
+
+## Methods
+
+We captured some Gentoo penguin and weight them...
+
+## Results
+
+No detectable trend. More research needed...
+
+```{r}
+targets::tar_read(gentoo_plot)
+```
+
